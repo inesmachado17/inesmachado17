@@ -1,13 +1,13 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Ines Machado!
-
+<a href = "mailto:ines.machado17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/ines-machado-im" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 ---
 
 Software Engineering student finding her way in tech. Learning coding best practices and experimenting with technologies listed in the toolbox below.
 
 Glad to be joining this amazing community and keep learning from those who take the time to share their knowledge!
 
-Looking forward to gain some professional experience.
-
+Looking forward to gain some professional experience. 
+  
 ---
 
 🧰 Toolbox
