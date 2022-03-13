@@ -16,11 +16,9 @@ Looking forward to gain some professional experience.
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+📈 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inesmachado17&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ines' GitHub stats](https://github-readme-stats.vercel.app/api?username=inesmachado17&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inesmachado17&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inesmachado17&layout=compact&langs_count=7&theme=github_dark"/>
 
 <!---
 - 👀 I’m interested in ...
