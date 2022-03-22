@@ -6,7 +6,7 @@ Software Engineering student finding her way in tech. Learning coding best pract
 
 Glad to be joining this amazing community and keep learning from those who take the time to share their knowledge!
 
-Looking forward to gain some professional experience. 
+Looking forward to gaining some professional experience. 
   
 ---
 
